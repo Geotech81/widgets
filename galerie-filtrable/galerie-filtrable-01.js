@@ -379,7 +379,7 @@
     galleryContainer.innerHTML = `
       <div class="filter-buttons" role="tablist">
         <button class="filter-button active" data-filter="all" role="tab" aria-selected="true">Voir tout</button>
-        <button class="filter-button" data-filter=".sondages" role="tab" aria-selected="false">Etudes de Sols</button>
+        <button class="filter-button" data-filter=".sondages" role="tab" aria-selected="false">Sondages</button>
         <button class="filter-button" data-filter=".elan" role="tab" aria-selected="false">Loi Elan</button>
         <button class="filter-button" data-filter=".assainissement" role="tab" aria-selected="false">Assainissement</button>
         <button class="filter-button" data-filter=".expertises" role="tab" aria-selected="false">Expertises</button>
