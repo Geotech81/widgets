@@ -366,6 +366,14 @@
         category: 'references'
       },
       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-boualngerie-graulhet-tarn-AoP47xZpQvHzKz3q.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-boualngerie-graulhet-tarn-AoP47xZpQvHzKz3q.webp',
+        alt: 'Étude de sols G2 pour les fondations de la boulangerie ANGE à Graulhet dans le Tarn',
+        title: 'Étude de sols G2 pour les fondations de la boulangerie ANGE à Graulhet dans le Tarn',
+        caption: 'test',
+        category: 'references'
+      },
+      {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-batiment-industriel-lavaur-tarn-d95ZOjDwoEtrQOvJ.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-batiment-industriel-lavaur-tarn-d95ZOjDwoEtrQOvJ.webp',
         alt: 'Étude de sols G2 pour les fondations d\'un batiment industriel à Lavaur dans le Tarn',
