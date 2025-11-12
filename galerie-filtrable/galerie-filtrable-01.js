@@ -13,6 +13,14 @@
 
     // Liste des images avec captions et title pour la lightbox et le hover
     const images = [
+{
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-st-sulpice--81--fouille-mini-pelle-uJIJMDD2GYflUxNL.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-st-sulpice--81--fouille-mini-pelle-uJIJMDD2GYflUxNL.webp',
+        alt: 'Sondage  ∣ Géosols Études',
+        title: 'Étude pour assainissement autonome - St SULPICE (81) - Fouille à la mini pelle',
+        caption: 'Étude pour assainissement autonome - St SULPICE (81) - Fouille à la mini pelle',
+        category: 'sondages'
+      },
       {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-toulouse-mePgjwjrJDi3nPb8.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-toulouse-mePgjwjrJDi3nPb8.webp',
@@ -366,11 +374,11 @@
         category: 'references'
       },
       {
-        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-boualngerie-graulhet-tarn-AoP47xZpQvHzKz3q.webp',
-        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-boualngerie-graulhet-tarn-AoP47xZpQvHzKz3q.webp',
-        alt: 'Étude de sols G2 pour les fondations de la boulangerie ANGE à Graulhet dans le Tarn',
-        title: 'Étude de sols G2 pour les fondations de la boulangerie ANGE à Graulhet dans le Tarn',
-        caption: 'test',
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-revel-31--extension-boulodrome-mission-g2-kJEXMs8WTduTmo5B.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-revel-31--extension-boulodrome-mission-g2-kJEXMs8WTduTmo5B.webp',
+        alt: 'ETUDE DE SOLS À REVEL (31) - extension du boulodrome - sanitaires - mission G2',
+        title: 'ETUDE DE SOLS À REVEL (31) - extension du boulodrome - sanitaires - mission G2',
+        caption: 'REVEL (31) - Extension du boulodrome / sanitaire - mission G2',
         category: 'references'
       },
       {
