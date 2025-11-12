@@ -22,6 +22,22 @@
         category: 'sondages'
       },
       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-cathedrale-lavaur-A3QlxGxMlpFxg5MJ.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-cathedrale-lavaur-A3QlxGxMlpFxg5MJ.webp',
+        alt: 'Étude des sols ∣ Sondage mission G2 ∣ Cathédrale de Lavaur',
+        title: 'Étude des sols ∣ Sondage mission G2 ∣ Cathédrale de Lavaur',
+        caption: 'Étude des sols ∣ Sondage mission G2 ∣ Cathédrale de Lavaur',
+        category: 'sondages'
+      },
+      {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-sondages-mission-g1-lavaur--tarn-Cj2865K4y538fXeK.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-sondages-mission-g1-lavaur--tarn-Cj2865K4y538fXeK.webp',
+        alt: 'Études des sols - Mission G1 Lavaur (Tarn)',
+        title: 'Études des sols - Mission G1 Lavaur (Tarn)',
+        caption: 'Études des sols - Mission G1 Lavaur (Tarn)',
+        category: 'sondages'
+      },
+      {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-toulouse-mePgjwjrJDi3nPb8.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/sondages-mission-g2-toulouse-mePgjwjrJDi3nPb8.webp',
         alt: 'Sondage mission G2 à Toulouse ∣ Géosols Études',
@@ -132,6 +148,14 @@
         title: 'Géotechnique - Étude de sols G1 Loi ELAN suite à la vente d\'un terrain',
         caption: 'REQUISTA (12) - mission G1PGC - loi ELAN',
         category: 'elan'
+      },
+      {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/galerie-expertises-fentes-dessiccation-argiles-secheresse-correize-laZItM0fna01vxx4.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/galerie-expertises-fentes-dessiccation-argiles-secheresse-correize-laZItM0fna01vxx4.webp',
+        alt: 'Expertises de sols pour fentes de dessiccation argiles secheresse (Corrèze)',
+        title: 'Expertises de sols pour fentes de dessiccation argiles secheresse (Corrèze)',
+        caption: 'Corrèze - expertise - dessication argiles sécheresse',
+        category: 'expertises'
       },
       {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g5-expertise-sinistre-secheresse-haute-garonne-YanJ43nNnPF3oDr8.webp',
@@ -374,6 +398,14 @@
         category: 'references'
       },
       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/eitude--sols-g2-fondations-baitiment-industriel-lavaur-ZyEBkDsB7jnKNxa3.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/eitude--sols-g2-fondations-baitiment-industriel-lavaur-ZyEBkDsB7jnKNxa3.webp',
+        alt: 'Étude de sols G2 fondations bâtiment industriel LAVAUR Tarn',
+        title: 'Étude de sols G2 fondations bâtiment industriel LAVAUR Tarn',
+        caption: 'LAVAUR (1) - Étude de sols - Fondations bâtiment industriel',
+        category: 'references'
+      },
+      {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-revel-31--extension-boulodrome-mission-g2-kJEXMs8WTduTmo5B.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-revel-31--extension-boulodrome-mission-g2-kJEXMs8WTduTmo5B.webp',
         alt: 'ETUDE DE SOLS À REVEL (31) - extension du boulodrome - sanitaires - mission G2',
@@ -381,7 +413,39 @@
         caption: 'REVEL (31) - Extension du boulodrome / sanitaire - mission G2',
         category: 'references'
       },
-      {
+ {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-g2avp-viviers-les-lavaur-c4zHZbUcNyRCmYtP.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-g2avp-viviers-les-lavaur-c4zHZbUcNyRCmYtP.webp',
+        alt: 'Étude de sols fondations G2AVP école VIVIERS LES LAVAUR Tarn',
+        title: 'Étude de sols fondations G2AVP école VIVIERS LES LAVAUR Tarn',
+        caption: 'Étude de sols fondations G2AVP école VIVIERS LES LAVAUR Tarn',
+        category: 'references'
+      },
+       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-g2pro-ecole-aussillon-tarn-sQHBY1O5rKNaS80d.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-g2pro-ecole-aussillon-tarn-sQHBY1O5rKNaS80d.webp',
+        alt: 'Étude de sols fondations G2PRO école AUSSILLON Tarn',
+        title: 'Étude de sols fondations G2PRO école AUSSILLON Tarn',
+        caption: 'Étude de sols fondations G2PRO école AUSSILLON Tarn',
+        category: 'references'
+      },
+       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-lavaur--tarn-bpJrKoeUwsq5of87.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-lavaur--tarn-bpJrKoeUwsq5of87.webp',
+        alt: 'Mission G2 Lavaur (Tarn)',
+        title: 'Mission G2 Lavaur (Tarn)',
+        caption: 'Mission G2 Lavaur (Tarn)',
+        category: 'references'
+      },
+ {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-mssion-g2-lavaur--tarn-CpwdoqpxGdtPOXkC.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-mssion-g2-lavaur--tarn-CpwdoqpxGdtPOXkC.webp',
+        alt: 'Étude des sols mission G2 Lavaur (Tarn)',
+        title: 'Étude des sols mission G2 Lavaur (Tarn)',
+        caption: 'Étude des sols mission G2 Lavaur (Tarn)',
+        category: 'references'
+      },
+            {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-batiment-industriel-lavaur-tarn-d95ZOjDwoEtrQOvJ.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-batiment-industriel-lavaur-tarn-d95ZOjDwoEtrQOvJ.webp',
         alt: 'Étude de sols G2 pour les fondations d\'un batiment industriel à Lavaur dans le Tarn',
