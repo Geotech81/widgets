@@ -149,7 +149,31 @@
         caption: 'REQUISTA (12) - mission G1PGC - loi ELAN',
         category: 'elan'
       },
+{
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/misson-g5-expertise-st-paul-cap-de-joux-81-ts8EcdUln6wqIurr.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/misson-g5-expertise-st-paul-cap-de-joux-81-ts8EcdUln6wqIurr.webp',
+        alt: 'Expertise mission G5 à St Paul Cap de Koux',
+        title: 'Expertise mission G5 à St Paul Cap de Koux',
+        caption: 'Expertise mission G5 à St Paul Cap de Koux',
+        category: 'expertises'
+      },
       {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/expertise-misson-g5-saix-81-5ykOcev2EM24nKLg.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/expertise-misson-g5-saix-81-5ykOcev2EM24nKLg.webp',
+        alt: 'Expertise avec une mission G5 à Saix dans le 81 Tarn',
+        title: 'Expertise avec une mission G5 à Saix dans le 81 Tarn',
+        caption: 'Expertise avec une mission G5 à Saix dans le 81 Tarn',
+        category: 'expertises'
+      },
+      {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/expertise-mission-g5-st-nauphary-82-wqksYLptEPv1wiF9.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/expertise-mission-g5-st-nauphary-82-wqksYLptEPv1wiF9.webp',
+        alt: 'Expertise mission G5 à St nauphary dans le 82',
+        title: 'Expertise mission G5 à St nauphary dans le 82',
+        caption: 'Expertise mission G5 à St nauphary dans le 82',
+        category: 'expertises'
+      },
+            {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/galerie-expertises-fentes-dessiccation-argiles-secheresse-correize-laZItM0fna01vxx4.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/galerie-expertises-fentes-dessiccation-argiles-secheresse-correize-laZItM0fna01vxx4.webp',
         alt: 'Expertises de sols pour fentes de dessiccation argiles secheresse (Corrèze)',
@@ -260,6 +284,14 @@
         title: 'Étude de sols G5 expertise - Sinistre du sol argiles suite à sécheresse',
         caption: 'GRATENTOUR (31) - expertise - mission G5',
         category: 'expertises'
+      },
+{
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-extension-batiment-industriel-lagrave-tarn.jpg-0S11VCkp8gA9DIUW.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-extension-batiment-industriel-lagrave-tarn.jpg-0S11VCkp8gA9DIUW.webp',
+        alt: 'Étude de sols G2 fondations extension bâtiment industriel LAGRAVE Tarn.jpg',
+        title: 'Étude de sols G2 fondations extension bâtiment industriel LAGRAVE Tarn.jpg',
+        caption: 'Étude de sols G2 fondations extension bâtiment industriel LAGRAVE Tarn.jpg',
+        category: 'references'
       },
       {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-voiries-lavaur-tarn-Yan0Gw6VNBSZyM7k.webp',
