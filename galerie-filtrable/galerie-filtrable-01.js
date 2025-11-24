@@ -152,9 +152,9 @@
 {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/misson-g5-expertise-st-paul-cap-de-joux-81-ts8EcdUln6wqIurr.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/misson-g5-expertise-st-paul-cap-de-joux-81-ts8EcdUln6wqIurr.webp',
-        alt: 'Expertise mission G5 à St Paul Cap de Koux',
-        title: 'Expertise mission G5 à St Paul Cap de Koux',
-        caption: 'Expertise mission G5 à St Paul Cap de Koux',
+        alt: 'Expertise mission G5 à St Paul Cap de Joux',
+        title: 'Expertise mission G5 à St Paul Cap de Joux',
+        caption: 'Expertise mission G5 à St Paul Cap de Joux',
         category: 'expertises'
       },
       {
@@ -284,6 +284,14 @@
         title: 'Étude de sols G5 expertise - Sinistre du sol argiles suite à sécheresse',
         caption: 'GRATENTOUR (31) - expertise - mission G5',
         category: 'expertises'
+      },
+      {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
+        alt: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
+        title: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
+        caption: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
+        category: 'sondages'
       },
 {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-extension-batiment-industriel-lagrave-tarn.jpg-0S11VCkp8gA9DIUW.webp',
