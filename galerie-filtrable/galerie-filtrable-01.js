@@ -291,7 +291,7 @@
         alt: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
         title: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
         caption: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
-        category: 'sondages'
+        category: 'references'
       },
 {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-g2-fondations-extension-batiment-industriel-lagrave-tarn.jpg-0S11VCkp8gA9DIUW.webp',
