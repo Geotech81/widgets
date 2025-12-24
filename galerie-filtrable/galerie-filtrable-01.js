@@ -286,7 +286,7 @@
         category: 'expertises'
       },
 {
-        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-zRdSOCD9OhS6WKrp.webp',
         fullSrc: 'mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81',
         alt: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
         title: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
