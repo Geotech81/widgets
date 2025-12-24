@@ -285,8 +285,16 @@
         caption: 'GRATENTOUR (31) - expertise - mission G5',
         category: 'expertises'
       },
-      {
+{
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
+        fullSrc: 'mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81',
+        alt: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        title: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        caption: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        category: 'references'
+      },
+{
+         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/vielmur-sur-agout--81--fondations-baitiment--mission-g2-JDg0K2xq7NipWJ83.webp',
         alt: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
         title: 'Mission G2 - Étude fondations bâtiment à Vielmur sur Agout (81)',
