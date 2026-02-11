@@ -286,6 +286,14 @@
         category: 'expertises'
       },
 {
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-ZLkhb1wmC02DloVH.webp',
+        fullSrc: 'mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81',
+        alt: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        title: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        caption: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        category: 'references'
+      },
+{
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-zRdSOCD9OhS6WKrp.webp',
         fullSrc: 'mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81',
         alt: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
