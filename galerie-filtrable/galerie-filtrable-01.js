@@ -286,19 +286,19 @@
         category: 'expertises'
       },
 {
-        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-ZLkhb1wmC02DloVH.webp',
-        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-ZLkhb1wmC02DloVH.webp',
-        alt: 'Mission G2 pour fondations escalier et la réhabilitation chateau de Fiac dans le tarn réalisée par GEOSOLS ÉTUDES',
-        title: 'Mission G2 pour fondations escalier et la réhabilitation chateau de Fiac dans le tarn réalisée par GEOSOLS ÉTUDES',
-        caption: 'Mission G2 pour fondations escalier et la réhabilitation chateau de Fiac dans le tarn réalisée par GEOSOLS ÉTUDES',
+        src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-piscine-lavaur-tarn-lEYot9H7wpFo7gSm.webp',
+        fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/etude-sols-fondations-piscine-lavaur-tarn-lEYot9H7wpFo7gSm.webp',
+        alt: 'Étude de sols pour fondations piscine à Lavaur dans le Tarn (81) par Géosols Études',
+        title: 'Étude de sols pour fondations piscine à Lavaur dans le Tarn (81) par Géosols Études',
+        caption: 'Étude de sols pour fondations piscine à Lavaur dans le Tarn (81) par Géosols Études',
         category: 'references'
       },
 {
         src: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-zRdSOCD9OhS6WKrp.webp',
         fullSrc: 'https://assets.zyrosite.com/AR03lgPkMzsDyQxv/mission-g2-fondations-escalier-reihabilitation-chateau-fiac-81-zRdSOCD9OhS6WKrp.webp',
-        alt: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
-        title: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
-        caption: 'Mission g2 fondations escalier reihabilitation chateau fiac 81',
+        alt: 'Mission g2 fondations escalier réhabilitation château Fiac 81',
+        title: 'Mission g2 fondations escalier réhabilitation château Fiac 81',
+        caption: 'Mission g2 fondations escalier réhabilitation château Fiac 81',
         category: 'references'
       },
 {
